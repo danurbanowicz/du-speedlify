@@ -13,8 +13,6 @@ module.exports = {
 		freshChrome: "site"
 	},
 	urls: [
-		"https://www.danurbanowicz.com/",
-		"https://www.danurbanowicz.com/about/",
-		"https://www.danurbanowicz.com/contact/"
+		"https://www.danurbanowicz.com/"
 	]
 };
